@@ -4,5 +4,4 @@
 - Revilleza, Frederick (**@juantojuan**)
 - Estrera, Michaela Ma. Alexa D. (@michaela-es)
 - Abel, Zydric (**@zydric**)
-- Salonga, Andre (**@andre.salonga**)
-- Abel, Zydric (**@zydric**)
+- Salonga, Andre (**@andresalonga**)
