@@ -3,9 +3,6 @@
 - Revilleza, Frederick (**@blissfuljuan**)
 - Revilleza, Frederick (**@juantojuan**)
 - Estrera, Michaela Ma. Alexa D. (@michaela-es)
-<<<<<<< HEAD
 - Abel, Zydric (**@zydric**)
 - Salonga, Andre (**@andre.salonga**)
-=======
 - Abel, Zydric (**@zydric**)
->>>>>>> main
